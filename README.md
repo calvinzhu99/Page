@@ -1,4 +1,4 @@
 # Page 1
-A Simple Page
+A simple page
 
 Link to [home page](./)
